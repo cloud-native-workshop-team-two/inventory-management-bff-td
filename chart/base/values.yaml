@@ -56,4 +56,4 @@ base:
         optional: true
 
   partOf: ""
-  connectsTo: ""
+  connectsTo: inventory-management-svc-td
